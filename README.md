@@ -235,4 +235,4 @@ The [portfolio walkthrough](docs/portfolio_walkthrough.md) identifies the exact 
 
 ## About the analyst
 
-**Nwachukwu Austine** is an Information Systems and Technology student with a professional background in television broadcasting, video production, graphic design, and media operations. This project demonstrates his transition from understanding how content is produced to using data to understand how content performs.
+**Nwachukwu Austine** is an Information Systems and Technology student with a professional background in television broadcasting, video production, graphic design, and media operations. This project demonstrates my transition from understanding how content is produced to using data to understand how content performs.
